@@ -12,10 +12,6 @@ function deObjetoAmatriz(objeto){
   //Escribe tu código aquí
   const nuevoObjeto = Object.entries(objeto)
   return objeto
-
-
-
-  AaaaaAAAAAAAA
 }
 
 
